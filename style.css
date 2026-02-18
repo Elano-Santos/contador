@@ -1,0 +1,72 @@
+   * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+   }
+
+   body {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       height: 100vh;
+       background-color: #0f172a;
+       font-family: "Bitcount Single";
+       color: #e2e8f0;
+   }
+
+   #counter {
+       background-color: #1e293b;
+       padding: 80px;
+       border-radius: 8px;
+   }
+
+   .controls {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 80px;
+       background-color: #0f172a;
+       padding: 100px;
+       font-size: 100px;
+       border-radius: 8px;
+   }
+
+   .minus button {
+       background-color: #ef4444;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       border: none;
+       height: 5rem;
+       width: 5rem;
+       padding: 0 10px 0 15px;
+       color: white;
+       font-size: 2rem;
+   }
+
+   .plus button {
+       background-color: #22c55e;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       border: none;
+       height: 5rem;
+       width: 5rem;
+       padding: 0 10px 0 15px;
+       color: white;
+       font-size: 2rem;
+   }
+
+   #contagem {
+       font-size: 6rem;
+       color: #e2e8f0;
+   }
+
+   #reset {
+       margin-top: 50px;
+       display: block;
+       margin: 50px auto 0;
+       font-size: 25px;
+       background-color: #3b82f6;
+       border: none;
+   }
