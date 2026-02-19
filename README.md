@@ -4,7 +4,7 @@ Aplicação web simples de contador desenvolvida com **HTML, CSS e JavaScript pu
 
 ---
 
-🌐 Visualize o projeto: https://elano-santos.github.io/contador/
+🌐 Visualize o projeto: https://elano-santos.github.io/Contador/
 
 ---
 
